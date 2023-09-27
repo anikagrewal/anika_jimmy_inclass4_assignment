@@ -18,7 +18,7 @@ export default function App() {
             name="Home"
             component={Home}
             options={{
-              title: 'Welcome!',
+              title: 'News!',
               headerStyle: {
                 backgroundColor: '#f4511e',
               },
